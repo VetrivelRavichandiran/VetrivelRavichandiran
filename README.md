@@ -1,6 +1,6 @@
 # Hi there, I'm Vetrivel 👋
 
-I am a 3rd-year Electronics and Communication Engineering student at the Central University of Karnataka, deeply passionate about bridging the gap between embedded hardware, full-stack development, and Artificial Intelligence.
+I am a 4th-year Electronics and Communication Engineering student at the Central University of Karnataka, deeply passionate about bridging the gap between embedded hardware, full-stack development, and Artificial Intelligence.
 
 ### 🚀 What I Do
 I specialize in building intelligent, real-time systems that connect the physical and digital worlds. My work spans across microcontrollers, machine learning models, and web architectures. 
