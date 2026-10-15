@@ -1,21 +1,21 @@
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
-<!-- VETRIVEL RAVICHANDIRAN | FUTURISTIC ENGINEERING PORTFOLIO -->
+<!-- VETRIVEL RAVICHANDIRAN | NEXT-GEN ENGINEERING PORTFOLIO       -->
 
-<!-- ========================================================= -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:164E63,75:1D4ED8,100:7C3AED&height=260&section=header&text=VETRIVEL%20RAVICHANDIRAN&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20WHAT'S%20NEXT&descSize=14&descAlignY=55&animation=twinkling" alt="Vetrivel Ravichandiran futuristic engineering banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:164E63,75:1D4ED8,100:7C3AED&height=260&section=header&text=VETRIVEL%20RAVICHANDIRAN&fontSize=37&fontColor=FFFFFF&fontAlignY=35&desc=SIGNALS%20%E2%86%92%20INTELLIGENCE%20%E2%86%92%20INNOVATION&descSize=15&descAlignY=56&animation=twinkling" alt="Vetrivel Ravichandiran futuristic engineering banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEERING;RF+ENGINEERING+%C3%97+ARTIFICIAL+INTELLIGENCE;WIRELESS+SYSTEMS+%7C+SIGNAL+PROCESSING;MACHINE+LEARNING+FOR+ENGINEERING;IDEAS+INTO+EXPERIMENTS.+EXPERIMENTS+INTO+IMPACT." alt="Animated engineering specialization"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=650&color=22D3EE&center=true&vCenter=true&width=900&height=60&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEERING;RF+ENGINEERING+%C3%97+ARTIFICIAL+INTELLIGENCE;WIRELESS+SYSTEMS+%7C+SIGNAL+PROCESSING;MACHINE+LEARNING+FOR+ENGINEERING;BUILD.+EXPERIMENT.+VALIDATE.+INNOVATE." alt="Animated engineering introduction"/>
 
 <br/>
 
 <a href="https://github.com/VetrivelRavichandiran?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 <a href="https://github.com/VetrivelRavichandiran/cyberpulse-ai">
 <img src="https://img.shields.io/badge/FEATURED-CYBERPULSE%20AI-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="CyberPulse AI"/>
@@ -26,13 +26,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=VetrivelRavichandiran&style=flat-square&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=VetrivelRavichandiran&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="GitHub profile visitor counter"/>
 
 <br/><br/>
 
-**ELECTRONICS · RF · WIRELESS · AI · EMBEDDED SYSTEMS**
+**ELECTRONICS · RF · WIRELESS · ARTIFICIAL INTELLIGENCE · EMBEDDED SYSTEMS**
 
-*Exploring the intersection of intelligent software and real-world engineering.*
+*Engineering ideas into intelligent, testable, real-world solutions.*
 
 </div>
 
@@ -40,29 +40,35 @@
 
 <div align="center">
 
-## `SYSTEM STATUS: LEARNING • BUILDING • INNOVATING`
+## `SYSTEM STATUS: ONLINE`
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 📡 RF SYSTEMS
+<img src="https://img.shields.io/badge/01-RF%20SYSTEMS-0891B2?style=for-the-badge" alt="RF systems"/>
 
-Antenna engineering, wireless communications, and signal behavior.
+**RADIO FREQUENCY**
 
-</td>
-<td align="center" width="33%">
-
-### 🧠 INTELLIGENT SYSTEMS
-
-Machine learning, predictive analytics, and AI-assisted engineering.
+Antenna engineering, wireless communications, and signal analysis.
 
 </td>
 <td align="center" width="33%">
 
-### ⚙️ ENGINEERING SOFTWARE
+<img src="https://img.shields.io/badge/02-INTELLIGENCE-7C3AED?style=for-the-badge" alt="Artificial intelligence"/>
 
-Embedded systems, APIs, computational models, and technical tools.
+**ARTIFICIAL INTELLIGENCE**
+
+Machine learning, predictive modeling, and intelligent engineering.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/03-ENGINEERING-0F766E?style=for-the-badge" alt="Engineering systems"/>
+
+**ENGINEERING SYSTEMS**
+
+Embedded technologies, computational tools, and software development.
 
 </td>
 </tr>
@@ -72,106 +78,107 @@ Embedded systems, APIs, computational models, and technical tools.
 
 ---
 
-# `01` / ENGINEER PROFILE
+# `01` // ENGINEER PROFILE
 
-<img align="right" width="290" src="https://github-readme-stats.vercel.app/api?username=VetrivelRavichandiran&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub profile statistics"/>
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=VetrivelRavichandiran&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
 
-Hey, I'm **Vetrivel Ravichandiran** — a final-year Electronics and Communication Engineering student at the **Central University of Karnataka, India**.
+Hey, I'm **Vetrivel Ravichandiran**, a final-year Electronics and Communication Engineering student at the **Central University of Karnataka, India**.
 
-I'm interested in building intelligent engineering systems that connect the physical and digital worlds.
+I'm passionate about the intersection of electronics, wireless communication, artificial intelligence, and intelligent software systems.
 
-My interests span radio-frequency engineering, antenna design, wireless communication, machine learning, signal processing, embedded systems, and software development.
+My interests span RF engineering, antenna design, digital signal processing, machine learning, embedded systems, and backend development.
 
-I enjoy approaching technical problems from multiple perspectives: understanding the underlying theory, developing computational models, building prototypes, and exploring practical applications.
+I enjoy exploring engineering problems from first principles, developing computational models, building prototypes, and investigating how theoretical concepts can translate into practical applications.
 
-**My engineering mindset:**
+### My engineering mindset
 
-* 🔬 Understand the fundamentals before optimizing the solution.
+* 🔬 Understand the fundamentals before optimizing a solution.
 * 📐 Combine mathematical reasoning with computational experimentation.
-* 🧠 Apply AI where it can provide meaningful engineering value.
+* 🧠 Apply AI where it provides meaningful engineering value.
 * ⚙️ Build systems that can be tested, evaluated, and improved.
-* 📚 Document what I learn and keep expanding my technical capabilities.
+* 📊 Validate predictions against appropriate reference data.
+* 🚀 Turn curiosity into projects, experiments, and practical skills.
 
 <br clear="right"/>
 
-### Current Engineering Coordinates
+### Engineering coordinates
 
 | Parameter             | Details                                                        |
 | --------------------- | -------------------------------------------------------------- |
-| 🎓 Education          | B.Tech — Electronics and Communication Engineering             |
+| 🎓 Education          | B.Tech in Electronics and Communication Engineering            |
 | 🏛️ Institution       | Central University of Karnataka, India                         |
-| 📡 Primary domain     | RF Engineering and Wireless Communications                     |
+| 📡 Primary interests  | RF Engineering and Wireless Communications                     |
 | 🧠 AI interests       | Machine Learning, Predictive Modeling, Explainable AI          |
 | 🔌 Hardware interests | Embedded Systems, Microcontrollers, Digital Electronics        |
 | 💻 Software interests | Python, APIs, Data-Driven Applications                         |
 | 🔭 Research direction | AI-Assisted Engineering and Intelligent Communication Networks |
 | 🎯 Career interests   | RF, Telecommunications, Embedded Systems, Semiconductors, AI   |
 
-> **MISSION:** Turn engineering theory into intelligent, testable, and practical solutions.
+> **MISSION:** Connect physical systems with intelligent software to explore better engineering solutions.
 
 ---
 
-# `02` / TECHNICAL ARSENAL
+# `02` // TECHNICAL ARSENAL
 
 <div align="center">
 
-### `PROGRAMMING INTERFACE`
+### `PROGRAMMING LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,dart&theme=dark" alt="Programming languages"/>
 
 <br/><br/>
 
-### `AI & COMPUTATIONAL INTELLIGENCE`
+### `ARTIFICIAL INTELLIGENCE`
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="Artificial intelligence technologies"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and computer vision technologies"/>
 
 <br/><br/>
 
-### `BACKEND & DEVELOPER TOOLCHAIN`
+### `BACKEND & DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,git,github,vscode&theme=dark" alt="Backend and developer tools"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,git,github,vscode&theme=dark" alt="Backend and developer technologies"/>
 
 </div>
 
-### Engineering Specializations
+### Engineering specializations
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RF%20ENGINEERING-0F766E?style=for-the-badge" alt="RF Engineering"/>
-<img src="https://img.shields.io/badge/ANTENNA%20DESIGN-0891B2?style=for-the-badge" alt="Antenna Design"/>
-<img src="https://img.shields.io/badge/WIRELESS%20SYSTEMS-1D4ED8?style=for-the-badge" alt="Wireless Systems"/>
+<img src="https://img.shields.io/badge/RF%20ENGINEERING-0F766E?style=for-the-badge" alt="RF engineering"/>
+<img src="https://img.shields.io/badge/ANTENNA%20DESIGN-0891B2?style=for-the-badge" alt="Antenna design"/>
+<img src="https://img.shields.io/badge/WIRELESS%20SYSTEMS-1D4ED8?style=for-the-badge" alt="Wireless systems"/>
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7C3AED?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/DIGITAL%20SIGNAL%20PROCESSING-0F766E?style=for-the-badge" alt="Digital Signal Processing"/>
-<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-334155?style=for-the-badge" alt="Embedded Systems"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7C3AED?style=for-the-badge" alt="Machine learning"/>
+<img src="https://img.shields.io/badge/DIGITAL%20SIGNAL%20PROCESSING-0F766E?style=for-the-badge" alt="Digital signal processing"/>
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-334155?style=for-the-badge" alt="Embedded systems"/>
 
-<img src="https://img.shields.io/badge/PYTHON%20DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Development"/>
+<img src="https://img.shields.io/badge/PYTHON%20DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-9333EA?style=for-the-badge" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-9333EA?style=for-the-badge" alt="Data analytics"/>
 
 </div>
 
-| Domain            | Technologies and concepts                                          |
-| ----------------- | ------------------------------------------------------------------ |
-| Programming       | Python, C/C++, JavaScript, Dart                                    |
-| Machine Learning  | Predictive modeling, neural networks, model evaluation             |
-| AI Applications   | Computer vision, explainable AI, anomaly analysis                  |
-| RF Engineering    | Antenna design, RF parameters, electromagnetic simulation concepts |
-| Wireless          | Communication systems, SDR fundamentals, digital signal processing |
-| Embedded          | ESP32, microcontrollers, UART, digital electronics                 |
-| Backend           | FastAPI, Flask, REST APIs, PostgreSQL                              |
-| Developer tools   | Git, GitHub, VS Code                                               |
-| Engineering tools | HFSS workshop exposure and antenna simulation concepts             |
+| Technical domain        | Technologies and concepts                                          |
+| ----------------------- | ------------------------------------------------------------------ |
+| Programming             | Python, C/C++, JavaScript, Dart                                    |
+| Machine Learning        | Predictive modeling, neural networks, model evaluation             |
+| AI applications         | Computer vision, explainable AI, anomaly analysis                  |
+| RF engineering          | Antenna design, RF parameters, electromagnetic simulation concepts |
+| Wireless communications | SDR fundamentals, wireless systems, digital signal processing      |
+| Embedded systems        | ESP32, microcontrollers, UART, digital electronics                 |
+| Backend development     | FastAPI, Flask, REST APIs, PostgreSQL                              |
+| Developer tools         | Git, GitHub, VS Code                                               |
+| Engineering tools       | HFSS workshop exposure and antenna simulation concepts             |
 
-*This list reflects my technical interests and learning areas; practical experience varies by technology.*
+*My experience varies across technologies, and I continue to expand my practical skills through learning and experimentation.*
 
 ---
 
-# `03` / FLAGSHIP PROJECTS
+# `03` // FLAGSHIP PROJECTS
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:082F49,50:1D4ED8,100:581C87&height=100&section=header&text=ENGINEERING%20BEYOND%20THEORY&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="Flagship engineering projects banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:082F49,45:1D4ED8,100:581C87&height=105&section=header&text=ENGINEERING%20BEYOND%20THEORY&fontSize=25&fontColor=FFFFFF&animation=fadeIn" alt="Engineering projects banner"/>
 
 <br/>
 
@@ -183,38 +190,39 @@ I enjoy approaching technical problems from multiple perspectives: understanding
 
 ### AI-Assisted Antenna Design & RF Parameter Prediction
 
-**DOMAIN:** RF ENGINEERING × MACHINE LEARNING
-
-A project direction exploring how machine learning can assist antenna analysis, RF parameter prediction, and candidate-based antenna design.
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/DOMAIN-RF%20%2B%20AI-0891B2?style=flat-square" alt="RF and AI"/>
-<img src="https://img.shields.io/badge/FOCUS-PREDICTIVE%20MODELING-7C3AED?style=flat-square" alt="Predictive modeling"/>
-<img src="https://img.shields.io/badge/APPROACH-ENGINEERING%20VALIDATION-0F766E?style=flat-square" alt="Engineering validation"/>
+<img src="https://img.shields.io/badge/DOMAIN-RF%20%2B%20AI-0891B2?style=for-the-badge" alt="RF and AI"/>
+<img src="https://img.shields.io/badge/FOCUS-PREDICTIVE%20MODELING-7C3AED?style=for-the-badge" alt="Predictive modeling"/>
+<img src="https://img.shields.io/badge/APPROACH-ENGINEERING%20VALIDATION-0F766E?style=for-the-badge" alt="Engineering validation"/>
 
 </div>
 
-### Core engineering directions
+**Concept:** Explore how machine learning can assist microstrip antenna analysis, RF parameter prediction, and candidate-based antenna design.
 
-| Module                    | Objective                                                                                     |
-| ------------------------- | --------------------------------------------------------------------------------------------- |
-| 📡 Forward prediction     | Predict RF performance parameters from antenna geometry using an appropriately trained model. |
-| 🔄 Inverse design         | Explore candidate geometries for specified performance targets.                               |
-| 📊 Parameter analysis     | Investigate return loss, gain, directivity, efficiency, and VSWR.                             |
-| 🧠 Model interpretability | Explore which input features influence predictions.                                           |
-| ⚙️ Design workflow        | Connect model inference to an interface for engineering experimentation.                      |
+### System capabilities
 
-**Technology areas:** Python · Machine Learning · Neural Networks · RF Engineering · Antenna Design
+| Module                | Engineering objective                                                             |
+| --------------------- | --------------------------------------------------------------------------------- |
+| 📡 Forward prediction | Predict RF parameters from antenna geometry using an appropriately trained model. |
+| 🔄 Inverse design     | Explore candidate geometries for specified performance targets.                   |
+| 📊 Parameter analysis | Investigate return loss, gain, directivity, efficiency, and VSWR.                 |
+| 🧠 Explainable AI     | Investigate how input features influence model predictions.                       |
+| ⚙️ Design workflow    | Connect model inference with a software interface for experimentation.            |
 
-**Research challenges:**
+### Technology areas
 
-* Establish reliable training data and simulation coverage.
+`Python` · `Machine Learning` · `Neural Networks` · `RF Engineering` · `Antenna Design`
+
+### Research challenges
+
+* Establish reliable training data and adequate simulation coverage.
 * Evaluate prediction errors across different antenna geometries.
-* Investigate generalization to previously unseen designs.
-* Compare predictions against electromagnetic simulation or measurement results.
+* Investigate generalization to unseen designs.
+* Compare predictions against electromagnetic simulations or measurements.
+* Explore practical limitations of data-driven inverse design.
 
-> **Engineering principle:** A model prediction is not a substitute for electromagnetic simulation or physical measurement. Validation is essential before treating predicted performance as verified.
+> **Engineering principle:** Machine-learning predictions require appropriate simulation or measurement validation before they can be treated as verified physical antenna performance.
 
 <div align="center">
 
@@ -230,15 +238,17 @@ A project direction exploring how machine learning can assist antenna analysis, 
 
 ### Cybercrime Intelligence & Financial Fraud Risk Analysis
 
-**DOMAIN:** ARTIFICIAL INTELLIGENCE × FINANCIAL SECURITY
+<div align="center">
 
 <a href="https://github.com/VetrivelRavichandiran/cyberpulse-ai">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-CYBERPULSE%20AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open CyberPulse AI repository"/>
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-CYBERPULSE%20AI-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="CyberPulse AI repository"/>
 </a>
+
+</div>
 
 CyberPulse AI focuses on using machine learning to analyze suspicious financial activity and support investigation through risk scoring, anomaly analysis, and explainable model outputs.
 
-### System architecture
+### Intelligence pipeline
 
 <div align="center">
 
@@ -246,57 +256,49 @@ CyberPulse AI focuses on using machine learning to analyze suspicious financial 
 <tr>
 <td align="center">
 
-**01 · INPUT**
-
-<br/>
+### 01
 
 📁
 
-<br/>
+**DATA INPUT**
 
-Transaction Data
+Transaction data
 
 </td>
 <td align="center">→</td>
 <td align="center">
 
-**02 · ANALYSIS**
-
-<br/>
+### 02
 
 🧠
 
-<br/>
+**ML ANALYSIS**
 
-ML Risk Modeling
+Risk modeling
 
 </td>
 <td align="center">→</td>
 <td align="center">
 
-**03 · EXPLANATION**
-
-<br/>
+### 03
 
 🔍
 
-<br/>
+**EXPLAINABILITY**
 
-SHAP Insights
+SHAP insights
 
 </td>
 <td align="center">→</td>
 <td align="center">
 
-**04 · OUTPUT**
-
-<br/>
+### 04
 
 📊
 
-<br/>
+**PRESENTATION**
 
-Risk Dashboard
+Risk dashboard
 
 </td>
 </tr>
@@ -306,15 +308,15 @@ Risk Dashboard
 
 ### Key capabilities
 
-* 🏦 **Fraud-risk modeling:** Explore suspicious financial and ATM activity.
+* 🏦 **Fraud-risk modeling:** Analyze suspicious financial and ATM activity.
 * 📈 **Predictive analytics:** Apply XGBoost to cash-out threat prediction.
-* 🚨 **Anomaly analysis:** Investigate unusual transaction patterns and temporal signals.
-* 🔎 **Explainable predictions:** Use SHAP to examine model behavior.
+* 🚨 **Anomaly analysis:** Explore unusual transaction patterns and temporal signals.
+* 🔎 **Explainable predictions:** Use SHAP to investigate model behavior.
 * 🗺️ **Data visualization:** Present relevant entities and risk information.
 * 📄 **Investigation support:** Explore alert review and report-generation workflows.
 * ⚡ **Backend services:** Use FastAPI to support application functionality.
 
-**Technology stack**
+### Technology stack
 
 <div align="center">
 
@@ -323,16 +325,20 @@ Risk Dashboard
 <br/><br/>
 
 <img src="https://img.shields.io/badge/XGBOOST-MACHINE%20LEARNING-EC6B23?style=for-the-badge" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/SHAP-EXPLAINABLE%20AI-7C3AED?style=for-the-badge" alt="SHAP explainable AI"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-PYTHON-3776AB?style=for-the-badge" alt="Python data analytics"/>
+<img src="https://img.shields.io/badge/SHAP-EXPLAINABLE%20AI-7C3AED?style=for-the-badge" alt="SHAP"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-PYTHON-3776AB?style=for-the-badge" alt="Python analytics"/>
 
 </div>
 
 **Engineering objective:** Transform financial activity data into understandable, investigation-oriented intelligence.
 
+<div align="center">
+
 <a href="https://github.com/VetrivelRavichandiran/cyberpulse-ai">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github" alt="View CyberPulse AI source code"/>
 </a>
+
+</div>
 
 ---
 
@@ -340,31 +346,41 @@ Risk Dashboard
 
 ### Predictive Channel Intelligence for Indoor Wireless Communications
 
-**DOMAIN:** WIRELESS COMMUNICATIONS × AI × SIGNAL PROCESSING
+<div align="center">
 
-A research-oriented concept investigating how radio-frequency communication and visible-light communication could work together to improve connectivity in indoor environments.
+<img src="https://img.shields.io/badge/WIRELESS%20COMMUNICATIONS-1D4ED8?style=for-the-badge" alt="Wireless communications"/>
+<img src="https://img.shields.io/badge/AI%20OPTIMIZATION-7C3AED?style=for-the-badge" alt="AI optimization"/>
+<img src="https://img.shields.io/badge/SIGNAL%20PROCESSING-0F766E?style=for-the-badge" alt="Signal processing"/>
 
-### Research architecture
+</div>
+
+A research-oriented concept exploring how radio-frequency communication and visible-light communication can complement one another in indoor wireless environments.
+
+### Conceptual architecture
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="30%">
+<td align="center" width="28%">
 
 ### 📡 RF LINK
 
 Radio-frequency communication
 
 </td>
-<td align="center" width="40%">
+<td align="center" width="44%">
 
 ### 🧠 INTELLIGENCE LAYER
 
-Channel prediction · Link selection · Resource allocation
+Channel prediction
+
+Link selection
+
+Resource allocation
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="28%">
 
 ### 💡 VLC LINK
 
@@ -392,7 +408,55 @@ Visible-light communication
 
 ---
 
-# `04` / INDUSTRIAL EXPOSURE
+# `04` // PROJECT VISUAL LAB
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:164E63,100:312E81&height=90&section=header&text=FROM%20CONCEPT%20TO%20IMPLEMENTATION&fontSize=21&fontColor=FFFFFF" alt="Project visual lab banner"/>
+
+</div>
+
+### CyberPulse AI — Interface Preview
+
+When available, place your actual project screenshot at `assets/cyberpulse-dashboard.png`.
+
+<div align="center">
+
+<img width="92%" src="assets/cyberpulse-dashboard.png" alt="CyberPulse AI dashboard screenshot — add your actual screenshot to the assets folder"/>
+
+<br/>
+
+<sub>Replace this preview with a screenshot of your implemented dashboard.</sub>
+
+</div>
+
+### RF-NEXUS TITAN AI — Engineering Preview
+
+When available, place your actual antenna visualization or model evaluation chart at `assets/rf-nexus-analysis.png`.
+
+<div align="center">
+
+<img width="92%" src="assets/rf-nexus-analysis.png" alt="RF-NEXUS TITAN AI analysis screenshot — add your actual screenshot to the assets folder"/>
+
+<br/>
+
+<sub>Replace this preview with your antenna model, simulation, or prediction analysis.</sub>
+
+</div>
+
+### Recommended project visuals
+
+| Project           | Recommended screenshot                          |
+| ----------------- | ----------------------------------------------- |
+| CyberPulse AI     | Risk dashboard and fraud-analysis visualization |
+| RF-NEXUS TITAN AI | Antenna geometry and model evaluation chart     |
+| Hybrid RF–VLC     | Network architecture or simulation diagram      |
+
+**Important:** GitHub will show broken images until these files exist. Create the `assets` folder, add the corresponding images, and commit them. If you do not have screenshots yet, remove the two image elements until the files are ready.
+
+---
+
+# `05` // INDUSTRIAL EXPOSURE
 
 My internship experiences have provided exposure to engineering environments across telecommunications, electronics manufacturing, automotive technology, and industrial electrical infrastructure.
 
@@ -440,14 +504,14 @@ Early industrial exposure in a manufacturing environment.
 
 ---
 
-# `05` / LIVE GITHUB TELEMETRY
+# `06` // LIVE GITHUB TELEMETRY
 
 <div align="center">
 
 ### `DEVELOPER ACTIVITY DASHBOARD`
 
 <a href="https://github.com/VetrivelRavichandiran">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VetrivelRavichandiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub contribution and repository statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VetrivelRavichandiran&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1" alt="GitHub profile statistics"/>
 </a>
 
 <a href="https://github.com/VetrivelRavichandiran">
@@ -468,11 +532,27 @@ Early industrial exposure in a manufacturing environment.
 
 </div>
 
-<sub>Note: These third-party services display repository and contribution data where supported. Availability, caching, private-repository visibility, and rate limits may affect the displayed results.</sub>
+<sub>Live statistics depend on third-party services. Cached values, service availability, API limits, and private-repository visibility can affect displayed results.</sub>
 
 ---
 
-# `06` / ACHIEVEMENTS & CONTRIBUTIONS
+# `07` // CONTRIBUTION SNAKE
+
+<div align="center">
+
+### `VISUALIZING THE CONTRIBUTION JOURNEY`
+
+<img src="https://raw.githubusercontent.com/VetrivelRavichandiran/VetrivelRavichandiran/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake — requires the contribution snake workflow to be configured"/>
+
+<br/>
+
+<sub>Animated contribution visualization generated through GitHub Actions.</sub>
+
+</div>
+
+---
+
+# `08` // GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -480,23 +560,19 @@ Early industrial exposure in a manufacturing environment.
 <img width="96%" src="https://github-profile-trophy.vercel.app/?username=VetrivelRavichandiran&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies"/>
 </a>
 
-</div>
+<br/><br/>
 
-### Contribution activity
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILD-Projects-0891B2?style=for-the-badge&logo=github" alt="Building projects"/>
-<img src="https://img.shields.io/badge/LEARN-New%20Technologies-7C3AED?style=for-the-badge" alt="Learning technologies"/>
-<img src="https://img.shields.io/badge/EXPLORE-Engineering%20Research-0F766E?style=for-the-badge" alt="Engineering research"/>
+<img src="https://img.shields.io/badge/BUILD-Engineering%20Projects-0891B2?style=for-the-badge&logo=github" alt="Build projects"/>
+<img src="https://img.shields.io/badge/LEARN-Explore%20New%20Technologies-7C3AED?style=for-the-badge" alt="Learn new technologies"/>
+<img src="https://img.shields.io/badge/IMPROVE-Experiment%20Continuously-0F766E?style=for-the-badge" alt="Continuous improvement"/>
 
 </div>
 
-I value consistent progress, practical experimentation, and learning through implementation.
+*Focused on consistent progress, technical experimentation, and continuous learning.*
 
 ---
 
-# `07` / CURRENT EXPLORATION
+# `09` // CURRENT EXPLORATION
 
 <div align="center">
 
@@ -555,17 +631,17 @@ I value consistent progress, practical experimentation, and learning through imp
 
 ---
 
-# `08` / ENGINEERING PRINCIPLES
+# `10` // ENGINEERING PRINCIPLES
 
 <div align="center">
 
-| PRINCIPLE     | APPROACH                                                 |
-| :------------ | :------------------------------------------------------- |
-| 🔬 Understand | Start with theory, evidence, and first principles.       |
-| 🧪 Experiment | Test assumptions with simulations, data, and prototypes. |
-| 📊 Evaluate   | Measure performance instead of relying on assumptions.   |
-| ⚙️ Engineer   | Build solutions that are practical and maintainable.     |
-| 🚀 Improve    | Learn from failures and iterate toward better designs.   |
+| PRINCIPLE     | APPROACH                                                    |
+| ------------- | ----------------------------------------------------------- |
+| 🔬 UNDERSTAND | Start with theory, evidence, and first principles.          |
+| 🧪 EXPERIMENT | Test assumptions through simulations, data, and prototypes. |
+| 📊 EVALUATE   | Measure performance rather than relying on assumptions.     |
+| ⚙️ ENGINEER   | Build solutions that are practical and maintainable.        |
+| 🚀 IMPROVE    | Learn from failures and iterate toward better designs.      |
 
 </div>
 
@@ -573,24 +649,24 @@ I value consistent progress, practical experimentation, and learning through imp
 
 ---
 
-# `09` / CONNECT WITH ME
+# `11` // CONNECT WITH ME
 
-I'm interested in connecting with engineers, researchers, developers, recruiters, and students working in RF engineering, telecommunications, embedded systems, semiconductors, and AI.
+I'm interested in connecting with engineers, researchers, recruiters, and developers working in RF engineering, telecommunications, embedded systems, semiconductors, and artificial intelligence.
 
 I'm open to suitable engineering internships, research opportunities, collaborative projects, and entry-level opportunities where I can contribute, learn, and strengthen my practical engineering skills.
 
 <div align="center">
 
 <a href="https://github.com/VetrivelRavichandiran">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
 <a href="https://github.com/VetrivelRavichandiran?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-View%20Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+<img src="https://img.shields.io/badge/PROJECTS-VIEW%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Project repositories"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -599,10 +675,10 @@ I'm open to suitable engineering internships, research opportunities, collaborat
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:1D4ED8,70:164E63,100:020617&height=170&section=footer&animation=twinkling" alt="Futuristic engineering portfolio footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,35:1D4ED8,70:164E63,100:020617&height=180&section=footer&animation=twinkling" alt="Animated engineering portfolio footer"/>
 
 ### `ENGINEER THE POSSIBLE.`
 
-*Learn continuously. Build intelligently. Validate rigorously.*
+**Learn continuously. Build intelligently. Validate rigorously.**
 
 </div>
